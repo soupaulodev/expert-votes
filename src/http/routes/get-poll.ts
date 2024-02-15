@@ -23,7 +23,11 @@ export async function getPoll(app: FastifyInstance) {
                 }
             }
         })
-    
+
+        if(!poll) {
+            return reply.status(400).send({ message: 'Poll not found.'})
+        }
+        
         return reply.send({ poll })
     })
 }
