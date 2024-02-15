@@ -40,7 +40,6 @@ export async function getPoll(app: FastifyInstance) {
             return obj
         }, {} as Record<string, number>)
 
-        console.log(result)
         return reply.send({ 
             poll: {
                 id: poll.id,
