@@ -2,7 +2,7 @@
 
 # Sistema de votação com resultados em tempo real
 
-Este é um projeto de sistema de votação em tempo real, desenvolvido durante o evento NLW Expert na trilha de N da Rocketseat. O projeto utiliza tecnologias como Fastify, Prisma, Redis e WebSocket para permitir que os usuários votem em enquetes e vejam os resultados em tempo real.
+Este é um projeto de sistema de votação em tempo real, desenvolvido durante o evento NLW Expert na trilha de NodeJS da Rocketseat. O projeto utiliza tecnologias como Fastify, Prisma, Redis e WebSocket para permitir que os usuários votem em enquetes e vejam os resultados em tempo real.
 
 ## Funcionalidades
 
