@@ -15,7 +15,7 @@ Siga as instruções abaixo para rodar o projeto em sua máquina local:
 
 1. **Pré-requisitos**:
    - Node.js instalado em sua máquina
-   - Docker instalado (para executar PostgressSQL e o Redis em um container)
+   - Docker instalado (para executar PostgreSQL e o Redis em um container)
 2. **Clonar o Repositório**:
    <pre><div class="dark bg-gray-950 rounded-md"><div class="flex items-center relative text-token-text-secondary bg-token-main-surface-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md"></div><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-bash">git clone https://github.com/paulomarquesdev/expert-votes.git
    </code>
