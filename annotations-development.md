@@ -694,9 +694,9 @@ Esse projeto foi desenvolvido durante o evento NLW Expert na trilha de NodeJS, m
 
 Gostaria de informar que alguns trechos foram reescritos ou revisados utilizando as IA's [ChatGPT da OpenAI](https://openai.com/chatgpt) e [Gemini do Google](https://gemini.google.com/app), pois alguns pontos não me senti confiante o suficiente para comentar e em outros minha explicação não estava suficientemente clara.
 
-Peço que reconsidere alguns acentos e c cedilha, comecei recentemente a utilizar um teclado padrão ansi e ainda estou me adaptando aos atalhos para acentos e afins. No entanto, garanto que esse material sera revisa logo mais para corrigir esses e quaisquer outros erros.
+Peço que reconsidere alguns acentos e c cedilha, comecei recentemente a utilizar um teclado padrão ansi e ainda estou me adaptando aos atalhos para acentos e afins. No entanto, garanto que esse material sera revisado logo mais para corrigir esses e quaisquer outros erros.
 
-Agradeço à Rocketseat pelo conteúdo enriquecedor de sempre e a você que leu o material. Espero que o material tenha sido útil para você e, se tiver alguma crítica e/ou sugestão, todas as minhas redes sociais estarão listadas em meu perfil aqui no GitHub.
+Agradeço à Rocketseat pelo conteúdo enriquecedor de sempre e a você que leu o material. Espero que o material tenha sido útil para você e se tiver alguma crítica e/ou sugestão, todas as minhas redes sociais estarão listadas em meu perfil aqui no GitHub.
 
 ```
 
